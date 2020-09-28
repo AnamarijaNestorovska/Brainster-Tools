@@ -1,0 +1,278 @@
+.navbar img {
+    margin-left: 3%;
+    margin-top: 1%;
+}
+
+#navbarNav {
+   margin-left: 1%;
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+
+    color: #007bff!important;
+}
+
+.navbar-light .navbar-nav .nav-link  {
+    color:grey;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: black;
+}
+
+.form-inline .btn:hover {
+    background-color: blue;
+    color: white;
+}
+
+.search {
+    margin-top: 4%;
+}
+
+.logo {
+    box-shadow: 0px 0px 5px #00000061;
+}
+
+.linkCourses {
+    color:black;
+}
+
+.coursesFilter {
+    background-color: #b1d0ef;
+}
+
+.modal-header {
+    flex-direction: column;
+}
+
+.modal-header h5 {
+    margin-left: 30%;
+    margin-top: 5%;
+    padding-bottom: 0;
+}
+
+
+
+.modal-header span {
+    margin-left: 35%;
+}
+
+.modal-footer span {
+    margin-right: 30%;
+}
+.close span {
+    float: right;
+}
+
+.tags {
+    margin-right: 35%;
+}
+
+.submitChek {
+    margin-right: 25%;
+}
+
+.loginHeader h5 {
+    margin-left: 35%;
+}
+
+
+
+.coursesList {
+    display: flex;
+    /* flex-direction: column; */
+    /* align-items: center; */
+
+}
+
+.borderCourse {
+    display: flex;
+    height: 150px;
+    width: 650px;
+    border: 1.5px solid #5b5c60;
+    border-radius: 5px;
+    margin-top: 5%;
+}
+
+
+ .buttonVote {
+    display: flex;
+    flex-direction: column;
+    padding: 35px;
+
+}
+
+.divTwo {
+   display: flex;
+   flex-direction: column;
+   /* align-items: center; */
+
+
+}
+
+.googleButton {
+    background-color: #3367d6;
+    color: white;
+    border-radius: 5px;
+
+}
+
+
+
+
+.googleButton .btn {
+    color: white;
+}
+
+.googleButton .btn:hover{
+    color: white;
+
+}
+
+.facebookButton {
+ background-color: #2d4373;
+ border-radius: 5px;
+
+}
+
+
+.facebookButton .btn {
+    color: white;
+
+}
+
+.facebookButton .btn:hover {
+    color:white;
+}
+
+
+.gitButton {
+    background-color: black;
+    border-radius: 5px;
+}
+
+.gitButton .btn {
+    color: white;
+}
+
+.gitButton .btn:hover {
+    color: white;
+}
+
+.buttonVote button {
+    /* height: 70px;
+    width: 70px; */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    /* justify-content: space-evenly; */
+}
+
+
+
+
+.upvotes a {
+    color:black;
+
+}
+
+.upvotes a:hover {
+    color:black;
+    text-decoration: none;
+}
+
+.recent a {
+    color: black;
+}
+
+.recent a:hover {
+    color: black;
+    text-decoration: none;
+
+}
+
+.smallDiv {
+    background-color: #e6ebf7;
+}
+
+
+.testClass {
+    background-color: #b1d0ef;
+    border: none;
+    border: 1px solid #007eff;
+    border-radius: 10px;
+
+}
+
+.votes {
+    border-radius: 10px;
+    border: 1px solid #5b5c60;
+
+}
+
+
+
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-item a {
+    color: black;
+}
+
+.nav-item a:hover{
+    color: black;
+}
+
+.buttonsAdmin {
+    display: flex;
+    flex-direction: column;
+}
+
+.fa-thumbs-down {
+    background-color: red;
+
+}
+
+.fa-thumbs-up {
+    background-color: green;
+}
+
+.btn-group-vertical>.btn, .btn-group>.btn  {
+    border: 2px solid #007eff;
+}
+
+/* .row .interested {
+    margin-left: 32%;
+    width: 50%;
+} */
+
+.approve {
+    background-color: #11189b;
+    padding: 13px 25px 10px 25px;
+    border: 2px solid #1b0a38;
+    border-radius: 5px;
+    color: black;
+}
+
+.deleteButton {
+    background-color: #a52929;
+    padding: 13px 25px 10px 25px;
+    color: black;
+    border: 2px solid #542424;
+    border-radius: 5px;
+}
+
+.disaporve {
+    background-color: #d2e033;
+    padding: 13px 25px 10px 25px;
+    border: 2px solid #838e01;
+    border-radius: 5px;
+    color: black;
+}
